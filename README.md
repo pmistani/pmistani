@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pouria Mistani,
-- 👀 I’m interested in accelerating drug discovery.
+- Hi, I’m Pouria Mistani,
+- I’m interested in accelerating drug discovery.
 
 <!---
 pmistani/pmistani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
